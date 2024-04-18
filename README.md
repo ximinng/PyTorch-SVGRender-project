@@ -2,27 +2,7 @@
 
 This web page template is specially made by me for academic papers.
 
-Look at what this web page looks like [here](https://ximinng.github.io/GithubPages-Template/).
-
 **You are welcome to copy this website's code for your personal use, please attribute the source with a link back to this page and remove the analytics code in the header.**
-
-## Setup
-
-### Clone
-
-To use this template, clone the repo:
-
-```
-git clone https://github.com/ximinng/GithubPages-Template
-```
-
-### Modify
-
-Modify the corresponding text content in the template:
-
-```
-vim index.html
-```
 
 ## Deploy
 
@@ -38,11 +18,6 @@ Click the red box in the picture:
 
 That will automatically make a webpage under
 address [GITHUB_USERNAME.github.io/REPO_NAME](GITHUB_USERNAME.github.io/REPO_NAME).
-
-## Used by
-
-- [DiffSketcher](https://ximinng.github.io/DiffSketcher-project/)
-- [Inversion-by-Inversion](https://ximinng.github.io/inversion-by-inversion-project/)
 
 ## License
 
